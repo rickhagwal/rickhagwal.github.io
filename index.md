@@ -44,9 +44,6 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 
 ### Academic Projects- Machine Learning, Deep Learning and NLP
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-
     [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy (ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
     
     [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
