@@ -51,7 +51,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
     
    [Wine Sales Forecasting uisng Time Series predictive models- LSTM, ARIMA, Prophet, Neural Networks and and cross-verified results with statistical measures likewise- MAPE, R2 score metrics](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
     
-   [Delivered Slack bot, a conversational AI chatbot ,charged with machine learning for internal and B2B communciations,  displays results in visualization formats](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
+   [Delivered Slack bot, a conversational AI chatbot ,charged with machine learning for internal and B2B communciations, and displays results in visualization formats](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
     
    [Natural language Processing based Spam Email Classifier, to classify spam vs non-spam emails, with predicted Precision of 91.3 % , Recall: 85.7%  and Accuracy of 97% using AdaBoost ML algorithm, and deployed model on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
 
