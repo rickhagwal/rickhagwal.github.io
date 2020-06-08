@@ -59,7 +59,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
     
    [ML chatbots for smart home automation System using IoT and Facebook AI bot, and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
     
-   [Created Artificial Intelligence based Games such as- 8 * 8 Puzzle, N-Queens problem etc., using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
+   [Created Artificial Intelligence based Games such as- 8 * 8 Puzzle, N-Queens problem etc., using BFS, DFS, A* Search](https://github.com/rickhagwal/Artificial-Intelligence)
     
  
 ---
