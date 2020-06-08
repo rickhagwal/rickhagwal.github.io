@@ -44,23 +44,23 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 
 ### Academic Projects- Machine Learning, Deep Learning and NLP
 
-    [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy (ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
+   [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy (ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
     
-    [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
+   [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
     
-    [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, using evaluation metrics as F-1 score ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
+   [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, using evaluation metrics as F-1 score ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
     
-    [Wine Sales Forecasting uisng Time Series predictive models- LSTM, ARIMA, Prophet, Neural Networks and and cross-verified results with statistical measures likewise- MAPE, R2 score metrics](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
+   [Wine Sales Forecasting uisng Time Series predictive models- LSTM, ARIMA, Prophet, Neural Networks and and cross-verified results with statistical measures likewise- MAPE, R2 score metrics](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
     
-    [Delivered Slack bot, a conversational AI chatbot ,charged with machine learning for internal and B2B communciations,  displays results in visualization formats](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
+   [Delivered Slack bot, a conversational AI chatbot ,charged with machine learning for internal and B2B communciations,  displays results in visualization formats](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
     
-    [Natural language Processing based Spam Email Classifier, to classify spam vs non-spam emails, with predicted Precision of 91.3 % , Recall: 85.7%  and Accuracy of 97% using AdaBoost ML algorithm, and deployed model on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
+   [Natural language Processing based Spam Email Classifier, to classify spam vs non-spam emails, with predicted Precision of 91.3 % , Recall: 85.7%  and Accuracy of 97% using AdaBoost ML algorithm, and deployed model on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
 
-    [Deep Neural Network for Classification of Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural network i.e., ImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
+   [Deep Neural Network for Classification of Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural network i.e., ImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
     
-    [ML chatbots for smart home automation System using IoT and Facebook AI bot, and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
+   [ML chatbots for smart home automation System using IoT and Facebook AI bot, and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
     
-    [ Created Artificial Intelligence based Games such as- 8 * 8 Puzzle, N-Queens problem etc., using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
+   [ Created Artificial Intelligence based Games such as- 8 * 8 Puzzle, N-Queens problem etc., using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
     
  
 ---
