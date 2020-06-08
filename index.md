@@ -94,7 +94,11 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
 - [Deep Learning: Image Recognition - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Image_Recognition.pdf)
 - [AWS Certified Solutions Architect - Associate (SAA-C01): 1 Cloud Services Overview (2019)](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_AWS%20Certified%20Solutions%20Architect.pdf)
 
+---
 
+### Contact Information
+
+- [Resume](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Resume.pdf)
 
 ---
 
