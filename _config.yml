@@ -1,8 +1,10 @@
 title: Richa Khagwal # your name (or website title) here
-logo: "/images/pic.jpg.png?raw=true" # your photo (or logo) here
+logo: "/images/pic.jpg?raw=true" # your photo (or logo) here
 # your text below (remove <br> elements if you don't need line breaks)
 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+
 
