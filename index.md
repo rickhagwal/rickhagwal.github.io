@@ -37,7 +37,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
     * Software Engineering
     * Machine Learning
     
-- [Bachelors in Computer Science](http://example.com/)
+- [Bachelors in Computer Science](http://www.rtu.ac.in/RTU/)
 
 ---
 
@@ -63,7 +63,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
     
     [ML chatbots for smart home automation System using IoT and Facebook AI bot, and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
     
-    [ Created Artificial Intelligence based Games(8 * 8 Puzzle, N-Queens problem etc.), using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
+    [ Created Artificial Intelligence based Games such as- 8 * 8 Puzzle, N-Queens problem etc., using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
     
  
 ---
@@ -80,14 +80,14 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 
  - Intermediate - R, PyTorch, Unix Scripting, Big Data, Hadoop, Spark, Hive, Microsoft Azure ML, Cassandra, Docker, Jenkins, D3.js, PowerBI
  
- - Soft Skills- Analytical skills, Quick learner, Data driven, problem solving skills, innovative, creative, communication skills,  storytelling skills
+ - Soft Skills- Analytical skills, Quick learner, Data driven, problem solving skills, innovative, creative, communication skills,  storytelling
 
 ---
 
 
 ### Certifications
 
-- [Project 1 Title](http://example.com/)
+- [Introduction to Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
 - [Project 2 Title](http://example.com/)
 
 
@@ -96,8 +96,10 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 
 ### Contact Information
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [LinkedIn](https://www.linkedin.com/in/richa-khagwal-903474172/)
+- [Github](https://github.com/rickhagwal)
+- [Kaggle](https://www.kaggle.com/rickhagwal5)
+- [Twitter](https://twitter.com/Richa61042835)
 
 
 ---
