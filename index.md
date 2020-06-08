@@ -20,9 +20,24 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 
 ### Education
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-
+- [Master's in Computer Science at California State University, East Bay](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
+  - Relevant Coursework:
+  
+    * Advanced Artificial Intelligence
+    * Machine Learning
+    * Computer Vision
+    * Cloud Computing
+    * Internet of Things (IoT)
+    * Statistics and Probability
+    * Calculus
+    * Linear Algebra
+    * Database Systems
+    * Data Structures
+    * Advanced Analysis of Algorithms
+    * Software Engineering
+    * Machine Learning
+    
+- [Bachelors in Computer Science](http://example.com/)
 
 ---
 
@@ -32,14 +47,30 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 
+    [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy (ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
+    
+    [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
+    
+    [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, using evaluation metrics as F-1 score ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
+    
+    [Wine Sales Forecasting uisng Time Series predictive models- LSTM, ARIMA, Prophet, Neural Networks and and cross-verified results with statistical measures likewise- MAPE, R2 score metrics](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
+    
+    [Delivered Slack bot, a conversational AI chatbot ,charged with machine learning for internal and B2B communciations,  displays results in visualization formats](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
+    
+    [Natural language Processing based Spam Email Classifier, to classify spam vs non-spam emails, with predicted Precision of 91.3 % , Recall: 85.7%  and Accuracy of 97% using AdaBoost ML algorithm, and deployed model on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
 
+    [Deep Neural Network for Classification of Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural network i.e., ImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
+    
+    [ML chatbots for smart home automation System using IoT and Facebook AI bot, and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
+    
+    [ Created Artificial Intelligence based Games(8 * 8 Puzzle, N-Queens problem etc.), using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
+    
+ 
 ---
 
 ### Academic Projects- Data Visualization via Tableau
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-
+- [Coronavirus Spread Across Globe, by performing Data Scraping, Data Analysis and Data Cleaning](https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimingacrossweb/)
 
 ---
 
