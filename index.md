@@ -85,8 +85,9 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 ### Certifications
 
 - [Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
-- [Introduction to Machine Learning](https://www.kaggle.com/learn/certification/rickhagwal5/intro-to-machine-learning)
-- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/rickhagwal5/intermediate-machine-learning)
+- [Building and Deploying Deep Learning Applications with TensorFlow, issued April 2019] (https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
+- [Introduction to Machine Learning- Dec 2019](https://www.kaggle.com/learn/certification/rickhagwal5/intro-to-machine-learning)
+- [Intermediate Machine Learning- Jan 2020](https://www.kaggle.com/learn/certification/rickhagwal5/intermediate-machine-learning)
 
 ---
 
