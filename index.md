@@ -85,9 +85,17 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 ### Certifications
 
 - [Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
-- [Building and Deploying Deep Learning Applications with TensorFlow, issued April 2019] (https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
-- [Introduction to Machine Learning- Dec 2019](https://www.kaggle.com/learn/certification/rickhagwal5/intro-to-machine-learning)
 - [Intermediate Machine Learning- Jan 2020](https://www.kaggle.com/learn/certification/rickhagwal5/intermediate-machine-learning)
+- [Introduction to Machine Learning- Dec 2019](https://www.kaggle.com/learn/certification/rickhagwal5/intro-to-machine-learning)
+- [Applied Machine Learning: Algorithms - May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Applied_Machine_Learning_Algorithms.pdf)
+- [NLP with Python for Machine Learning Essential Training - May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_NLP_with_Python_for_Machine_Learning_Essential_Training.pdf)
+- [Building and Deploying Deep Learning Applications with TensorFlow - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
+- [Building Deep Learning Applications with Keras 2.0 - April 2019]()
+- [Deep Learning: Face Recognition - March 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Face_Recognition.pdf)
+- [Deep Learning: Image Recognition - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Image_Recognition.pdf)
+- [AWS Certified Solutions Architect - Associate (SAA-C01): 1 Cloud Services Overview (2019)](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_AWS%20Certified%20Solutions%20Architect.pdf)
+
+
 
 ---
 
