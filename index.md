@@ -90,7 +90,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 - [Applied Machine Learning: Algorithms - May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Applied_Machine_Learning_Algorithms.pdf)
 - [NLP with Python for Machine Learning Essential Training - May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_NLP_with_Python_for_Machine_Learning_Essential_Training.pdf)
 - [Building and Deploying Deep Learning Applications with TensorFlow - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
-- [Building Deep Learning Applications with Keras 2.0 - April 2019]()
+- [Building Deep Learning Applications with Keras 2.0 - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_Deep_Learning_Applications_with_Keras_2.0.pdf)
 - [Deep Learning: Face Recognition - March 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Face_Recognition.pdf)
 - [Deep Learning: Image Recognition - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Image_Recognition.pdf)
 - [AWS Certified Solutions Architect - Associate (SAA-C01): 1 Cloud Services Overview (2019)](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_AWS%20Certified%20Solutions%20Architect.pdf)
