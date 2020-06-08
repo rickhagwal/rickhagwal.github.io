@@ -60,7 +60,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
     
    [ML chatbots for smart home automation System using IoT and Facebook AI bot, and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
     
-   [ Created Artificial Intelligence based Games such as- 8 * 8 Puzzle, N-Queens problem etc., using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
+   [Created Artificial Intelligence based Games such as- 8 * 8 Puzzle, N-Queens problem etc., using BFS, DFS, A* Search] (https://github.com/rickhagwal/Artificial-Intelligence)
     
  
 ---
@@ -84,12 +84,11 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 
 ### Certifications
 
-- [Introduction to Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
-- [Project 2 Title](http://example.com/)
-
+- [Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
+- [Introduction to Machine Learning](https://www.kaggle.com/learn/certification/rickhagwal5/intro-to-machine-learning)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/rickhagwal5/intermediate-machine-learning)
 
 ---
-
 
 ### Contact Information
 
