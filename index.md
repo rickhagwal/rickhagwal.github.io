@@ -22,7 +22,6 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting in
 
 - [Master's in Computer Science at California State University, East Bay](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
   - Relevant Coursework:
-  
     * Advanced Artificial Intelligence
     * Machine Learning
     * Computer Vision
