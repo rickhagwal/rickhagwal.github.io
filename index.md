@@ -72,7 +72,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
 
 ### Skills
 
- - Proficient -  Python, Java, Classification, Regression, Clustering, Supervised/Un-Supervised Learning, Deep Learning, Natural language Processing (NLP), Statistical Analysis,  NoSQL (MongoDB), Relational SQL Databases (PostgreSQL, MySQL, Oracle), TensorFlow, Keras, Pandas, Numpy, Scikit-learn, NLTK, Spacy, Matplotlib, Seaborn, Plotly, Flask, REST api, BeautifulSoup, Herolu, AWS EC2, Tableau
+ - Proficient -  Python, Java, Classification, Regression, Clustering, Supervised/Un-Supervised Learning, Deep Learning, Natural language Processing (NLP), Statistical Analysis,  NoSQL (MongoDB), Relational SQL Databases (PostgreSQL, MySQL, Oracle), TensorFlow, TensorFlow Lite, TensorBoard, Keras, Pandas, Numpy, Scikit-learn, NLTK, Spacy, Matplotlib, Seaborn, Plotly, Flask, REST api, BeautifulSoup, Herolu, AWS EC2, Tableau
 
  - Intermediate - R, PyTorch, Unix Scripting, Big Data, Hadoop, Spark, Hive, Microsoft Azure ML, Cassandra, Docker, Jenkins, D3.js, PowerBI
  
