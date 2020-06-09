@@ -34,7 +34,6 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
     * Data Structures
     * Advanced Analysis of Algorithms
     * Software Engineering
-    * Machine Learning
     
 - [Bachelors in Computer Science](http://www.rtu.ac.in/RTU/)
 
