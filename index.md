@@ -4,7 +4,7 @@
 
 Data Scientist with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstarted history of working across multiple domains- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building new forecasting models, and boosting retail sales, along with 4+ years of prior software development experience. 
 
-I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Statistical Modeling, Advanced Data Science Techniques along with, ML/ Deep learning and NLP algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
+I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and NLP algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
 
 I am looking for Full-Time roles in Data Science & Machine Learning, starting with June 2020. I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
 
@@ -83,12 +83,12 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
 ### Certifications
 
 - [Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
-- [Intermediate Machine Learning- Jan 2020](https://www.kaggle.com/learn/certification/rickhagwal5/intermediate-machine-learning)
-- [Introduction to Machine Learning- Dec 2019](https://www.kaggle.com/learn/certification/rickhagwal5/intro-to-machine-learning)
+- [Introduction to R - Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Introduction_to_R.pdf)
+- [Data Cleaning in Python](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Pandas_Foundations.pdf)
+- [Feature Engineering for Natural Language Processing - April 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Feature_engineering_for_NLP_Python.pdf)
 - [Applied Machine Learning: Algorithms - May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Applied_Machine_Learning_Algorithms.pdf)
-- [NLP with Python for Machine Learning Essential Training - May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_NLP_with_Python_for_Machine_Learning_Essential_Training.pdf)
-- [Building and Deploying Deep Learning Applications with TensorFlow - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
-- [Building Deep Learning Applications with Keras 2.0 - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_Deep_Learning_Applications_with_Keras_2.0.pdf)
+- [Deep Learning Applications with TensorFlow- April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
+- [NLP with Python for Machine Learning - May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_NLP_with_Python_for_Machine_Learning_Essential_Training.pdf)
 - [Deep Learning: Face Recognition - March 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Face_Recognition.pdf)
 - [Deep Learning: Image Recognition - April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Image_Recognition.pdf)
 - [AWS Certified Solutions Architect - Associate (SAA-C01): 1 Cloud Services Overview (2019)](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_AWS%20Certified%20Solutions%20Architect.pdf)
