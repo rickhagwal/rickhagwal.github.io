@@ -4,7 +4,7 @@
 
 Data Scientist with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstarted history of working across multiple domains- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building new forecasting models, and boosting retail sales, along with 4+ years of prior software development experience. 
 
-I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Statistical Modeling, Advanced Data Science Techniques along with, Machine Learning/ Deep learning and NLP algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
+I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Statistical Modeling, Advanced Data Science Techniques along with, ML/ Deep learning and NLP algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
 
 I am looking for Full-Time roles in Data Science & Machine Learning, starting with June 2020. I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
 
