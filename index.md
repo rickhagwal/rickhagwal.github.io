@@ -86,7 +86,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
 - [Introduction to R by Datacamp- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Introduction_to_R.pdf)
 - [Data Cleaning in Python by Datacamp- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Pandas_Foundations.pdf)
 - [Pandas Foundations by Datacamp- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Pandas_Foundations.pdf)
-- [Feature Engineering for Natural Language Processing by Datacamp- April 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Feature_engineering_for_NLP_Python.pdf)
+- [Feature Engineering for NLP by Datacamp- April 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Feature_engineering_for_NLP_Python.pdf)
 - [Applied Machine Learning: Algorithms by Linkedinn- May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Applied_Machine_Learning_Algorithms.pdf)
 - [Deep Learning Applications with TensorFlow by Linkedinn- April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
 - [NLP with Python for Machine Learning by Linkedinn- May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_NLP_with_Python_for_Machine_Learning_Essential_Training.pdf)
