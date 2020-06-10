@@ -98,7 +98,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
 
 ### Contact Information
 
-- [Resume](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Resume.pdf)
+- [Resume](https://drive.google.com/file/d/1VImghSXXDJo1SOlebiWe9OaAQ3m-NJJ6/view?usp=sharing)
 
 ---
 
