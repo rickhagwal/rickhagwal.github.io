@@ -84,7 +84,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
 
 - [Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
 - [Introduction to R- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Introduction_to_R.pdf)
-- [Data Cleaning in Python- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Pandas_Foundations.pdf)
+- [Data Cleaning in Python- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Python_Data_Cleaning.pdf)
 - [Pandas Foundations- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Pandas_Foundations.pdf)
 - [Feature Engineering for NLP- April 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Feature_engineering_for_NLP_Python.pdf)
 - [Applied Machine Learning: Algorithms- May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Applied_Machine_Learning_Algorithms.pdf)
