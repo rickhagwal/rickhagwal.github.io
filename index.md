@@ -108,6 +108,7 @@ I am looking for Full-Time roles in Data Science & Machine Learning, starting wi
 - [Github](https://github.com/rickhagwal)
 - [Kaggle](https://www.kaggle.com/rickhagwal5)
 - [Twitter](https://twitter.com/Richa61042835)
+- [Youtube](https://www.youtube.com/watch?v=95mdJyE3C7g&list=UUHftDftQbZsQq3tMs_iX3hg)
 
 
 ---
