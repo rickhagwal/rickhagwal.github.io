@@ -6,7 +6,7 @@ Data Science and Machine Learning enthusiast, with hands-on experience collectin
 
 I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and NLP algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
 
-I am looking for Full-Time roles in Data Science & Machine Learning, starting with June 2020. I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
+I am looking for Full-Time roles in Data Science & Machine Learning, starting with July 2020. I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
 
 ---
 
