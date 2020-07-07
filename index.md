@@ -2,9 +2,9 @@
 
 ### Introduction
 
-Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple domains- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building new forecasting models, and boosting retail sales, along with 4+ years of prior software development experience. 
+Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple domains- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Video/ Image Classification, Object detection, Face Recognition, Text Semantics, Classification and Regression via Supervised Learning, Clustering, Recommendation System, Time-series Forecasting, along with 4+ years of prior software development experience in Java, Python, JavaScript, SQL. 
 
-I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and NLP algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
+I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real. I have also
 
 I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
 
@@ -71,11 +71,11 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Skills
 
- - Proficient -  Python, Java, Classification, Regression, Clustering, Supervised/Un-Supervised Learning, Deep Learning, Natural language Processing (NLP), Statistical Analysis,  NoSQL (MongoDB), Relational SQL Databases (PostgreSQL, MySQL, Oracle), TensorFlow, TensorFlow Lite, TensorBoard, Keras, Pandas, Numpy, Scikit-learn, NLTK, Spacy, Matplotlib, Seaborn, Plotly, Flask, REST api, BeautifulSoup, Herolu, AWS EC2, Tableau
+ - Proficient -  Python, Java, Classification, Regression, Clustering, Supervised/Un-Supervised Learning, Deep Learning, Natural language Processing (NLP), Statistical Analysis,   TensorFlow, TensorFlow Lite, TensorBoard, Keras, Pandas, Numpy, Scikit-learn, NLTK, Spacy, Matplotlib, Seaborn, Plotly, Flask, REST api, BeautifulSoup, Heroku, AWS, GCP, Tableau, NoSQL (MongoDB, Cassandra), Relational SQL Databases (PostgreSQL, MySQL, Oracle, SQL Server)
 
- - Intermediate - R, PyTorch, Unix Scripting, Big Data, Hadoop, Spark, Hive, Microsoft Azure ML, Cassandra, Docker, Jenkins, D3.js, PowerBI
+ - Intermediate - R, PyTorch, Unix Scripting, Big Data, Hadoop, Spark, Hive, Microsoft Azure ML, Docker, Jenkins, D3.js, PowerBI
  
- - Soft Skills- Analytical skills, Quick learner, Data driven, problem solving skills, innovative, creative, communication skills,  storytelling
+ - Soft Skills- Analytical skills, Quick learner, Data driven, problem solving skills, innovative, creative, communication skills, adaptability skills
 
 ---
 
