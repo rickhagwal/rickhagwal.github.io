@@ -65,7 +65,7 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Academic Projects- Data Visualization via Tableau
 
-- [Coronavirus Spread Across Globe, by performing Data Scraping, Data Analysis and Data Cleaning](https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimingacrossweb/)
+- [Coronavirus Spread Across Globe, by performing Data Scraping, Data Analysis and Data Cleaning](https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimelineacrossweb)
 
 ---
 
