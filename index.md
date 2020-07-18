@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple domains- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Video/ Image Classification, Object detection, Face Recognition, Text Semantics, Classification and Regression via Supervised Learning, Clustering, Recommendation System, Time-series Forecasting, along with 4+ years of prior software development experience in Java, Python, JavaScript, SQL. I also did internship as a "Data Scientist Intern" at "The Wine Group".
+Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Time-series Forecasting, Video/ Image Classification, Object detection, Face Recognition, Text Semantics Analysis, Recommendation System, along with 4+ years of prior software development experience in Java, Python, JavaScript, SQL. I also did internship as a "Data Scientist Intern" at "The Wine Group".
 
 I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real. 
 
@@ -93,12 +93,6 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 - [Deep Learning: Face Recognition- March 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Face_Recognition.pdf)
 - [Deep Learning: Image Recognition- April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Image_Recognition.pdf)
 - [AWS Certified Solutions Architect - Associate](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_AWS%20Certified%20Solutions%20Architect.pdf)
-
----
-
-### Contact Information
-
-- [Resume](https://drive.google.com/file/d/1VImghSXXDJo1SOlebiWe9OaAQ3m-NJJ6/view?usp=sharing)
 
 ---
 
