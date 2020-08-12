@@ -44,7 +44,7 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 
   
-  - [Sales Price Prediction of Washington DC](https://github.com/rickhagwal/Washingtondc_housing_price_prediction)
+  - [Housing Sales Price Prediction of Washington DC](https://github.com/rickhagwal/Washingtondc_housing_price_prediction)
     
   - [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
     
