@@ -42,13 +42,15 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Academic Projects- Machine Learning, Deep Learning and NLP
 
-  - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
+
+  
+  - [Sales Price Prediction of Washington DC](https://github.com/rickhagwal/Washingtondc_housing_price_prediction)
     
   - [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
     
   - [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, via F-1 score as evaluation metrics ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
     
-  - [Wine Sales Forecasting uisng Time Series predictive models- LSTM, ARIMA, Prophet, Neural Networks and cross-verified results via statistical measures(MAPE, R2 score)](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
+  - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
     
   - [Delivered AI conversational chatbot,charged with machine learning for internal and B2B communciation](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
     
