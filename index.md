@@ -50,7 +50,7 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
     
   - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
   
-   - [Sales Price Prediction of Washington DC, by performing Data Preprocessing and advanced Regression techniques, via RMSE as evaluation metrics](https://github.com/rickhagwal/WashingtonDC_sales_price_predict)
+   - [Housing Sales Price prediction of Washington D.C., by performing Data Preprocessing and advanced Regression techniques, via RMSE as evaluation metrics](https://github.com/rickhagwal/WashingtonDC_sales_price_predict)
     
   - [Natural language Processing based Spam Email Classifier, to classify spam vs non-spam emails with predicted metrics(Precision: 91.3% , Recall:85.7%  and Accuracy:97%), via AdaBoost ML algorithm, and deployed model on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
     
