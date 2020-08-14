@@ -42,21 +42,17 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Academic Projects- Machine Learning, Deep Learning and NLP
 
-
-  
-  - [Sales Price Prediction of Washington DC, by performing Data Preprocessing and advanced Regression techniques, via RMSE as evaluation metrics](https://github.com/rickhagwal/WashingtonDC_sales_price_predict)
-    
   - [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
     
   - [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, via F-1 score as evaluation metrics ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
+  
+    - [Deep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural networkImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
     
   - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
-    
-  - [Delivered AI conversational chatbot,charged with machine learning for internal and B2B communciation](https://github.com/rickhagwal/Wine-Forecasting-and-Chatbot)
+  
+   - [Sales Price Prediction of Washington DC, by performing Data Preprocessing and advanced Regression techniques, via RMSE as evaluation metrics](https://github.com/rickhagwal/WashingtonDC_sales_price_predict)
     
   - [Natural language Processing based Spam Email Classifier, to classify spam vs non-spam emails with predicted metrics(Precision: 91.3% , Recall:85.7%  and Accuracy:97%), via AdaBoost ML algorithm, and deployed model on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
-
-  - [Deep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural networkImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
     
   - [Integration of AI chatbots for smart home automation System (built upon Sensors) via Chatfuel API and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
     
