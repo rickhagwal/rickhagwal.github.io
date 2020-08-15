@@ -48,7 +48,7 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
     
   - [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, via F-1 score as evaluation metrics ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
   
-  - [weDeep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural networkImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
+  - [Deep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural networkImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
     
   - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
   
