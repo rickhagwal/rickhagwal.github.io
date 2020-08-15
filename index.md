@@ -42,6 +42,8 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Academic Projects- Machine Learning, Deep Learning and NLP
 
+  - [Detecting COVID-19 on Chest X-Ray images i.e., Radiography database](https://github.com/rickhagwal/Covid19_Image_classification)
+
   - [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
     
   - [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, via F-1 score as evaluation metrics ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
