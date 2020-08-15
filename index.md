@@ -100,7 +100,6 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 - [LinkedIn](https://www.linkedin.com/in/richa-khagwal-903474172/)
 - [Github](https://github.com/rickhagwal)
-- [Kaggle](https://www.kaggle.com/rickhagwal5)
 - [Youtube](https://www.youtube.com/watch?v=95mdJyE3C7g&list=UUHftDftQbZsQq3tMs_iX3hg)
 - [Twitter](https://twitter.com/Richa61042835)
 
