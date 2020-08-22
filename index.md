@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Time-series Forecasting, Video/ Image Classification, Object detection, Face Recognition, Text Semantics Analysis, Recommendation System. 
+Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Time-series Forecasting, Video/ Image Classification, Object detection, Face Recognition, Semantics Analysis, Recommendation System. 
 
 Former "Data Science Intern" at "The Wine Group", along with prior 4+ years of experience as a "Software Developer" in technologies such as- Java, Python, JavaScript, SQL.
 
