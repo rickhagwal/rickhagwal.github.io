@@ -2,7 +2,9 @@
 
 ### Introduction
 
-Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Time-series Forecasting, Video/ Image Classification, Object detection, Face Recognition, Text Semantics Analysis, Recommendation System. Former "Data Science Intern" at "The Wine Group", along with prior 4+ years of experience as a "Software Developer" in technologies such as- Java, Python, JavaScript, SQL.
+Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Time-series Forecasting, Video/ Image Classification, Object detection, Face Recognition, Text Semantics Analysis, Recommendation System. 
+
+Former "Data Science Intern" at "The Wine Group", along with prior 4+ years of experience as a "Software Developer" in technologies such as- Java, Python, JavaScript, SQL.
 
 I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real. 
 
