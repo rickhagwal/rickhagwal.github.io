@@ -95,7 +95,6 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning- March 2019](https://www.coursera.org/account/accomplishments/verify/9XAU6S7VD45N)
 - [Detecting COVID-19 with Chest X-Ray using PyTorch- August 2020](https://www.coursera.org/account/accomplishments/verify/KH2P4TV6T7X9)
 - [Predict Future Product Prices Using Facebook Prophet- July 2020](https://www.coursera.org/account/accomplishments/verify/VTR322KYKAFB)
-- [Introduction to Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
 
 - [Intermediate R- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Introduction_to_R.pdf)
 - [Data Cleaning in Python- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Python_Data_Cleaning.pdf)
