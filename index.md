@@ -23,7 +23,7 @@ I am currently on OPT EAD Visa and authorized to work in US without sponsorship 
 
 ### Education
 
-- [Master's in Computer Science from California State University, East Bay, Hayward, CA](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
+- [Master's in Computer Science at California State University, East Bay, Hayward, CA](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
   - Relevant Coursework:
     * Advanced Artificial Intelligence
     * Machine Learning
@@ -38,7 +38,7 @@ I am currently on OPT EAD Visa and authorized to work in US without sponsorship 
     * Advanced Analysis of Algorithms
     * Software Engineering
     
-- [B.Tech in Computer Science from Rajasthan Technical University, India](http://www.rtu.ac.in/RTU/)
+- [B.Tech in Computer Science at Rajasthan Technical University, India](http://www.rtu.ac.in/RTU/)
 
 ---
 
