@@ -57,7 +57,7 @@ I am currently on OPT EAD Visa and authorized to work in US without sponsorship 
   
   - [Detecting COVID-19 on Chest X-Ray images: Image Classification via PyTorch and got 97.78% accuracy](https://github.com/rickhagwal/Covid19_Image_classification)
   
-  - [Deep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API: via custom Image Recognition model and ImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
+  - [Deep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API: via ImageNet and custom Image Recognition model](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
     
   - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques: Hyperparameter Tuning, got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
   
