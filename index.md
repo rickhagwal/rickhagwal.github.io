@@ -4,9 +4,9 @@
 
 Actively seeking Data Science and Machine Learning roles, with hands-on experience collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, Education and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc.
 
-5+ years of experience as a **Data Scientist** in technologies such as- Python, R, SQL, Java.
+5+ years of experience as a Data Scientist in programming languages such as- **Python, R, SQL, Java**.
 
-I graduated with **MS in Computer Science** from **California State University, East Bay** (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning models in the real-world environment, via variant Natiral Language Processing and Machine Learning based school projects, to better utilize the potential that data holds in real. 
+I graduated with MS in Computer Science from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning models in the real-world environment, via variant Natiral Language Processing and Machine Learning based school projects, to better utilize the potential that data holds in real, by increasing students and faculties graduation rate and retention rate.
 
 I am currently on OPT EAD Visa and authorized to work in US without sponsorship till August 2023.
 
@@ -78,7 +78,7 @@ I am currently on OPT EAD Visa and authorized to work in US without sponsorship 
 
 ### Skills
 
- - Proficient-  **Python, R, SQL, Java, Pandas, Numpy, Scikit-learn, SciPy, NLTK, Spacy, Gensim, TensorFlow, Keras, PyTorch, OpenCV, HuggingFace, Matplotlib, Seaborn, Plotly, Ggplot, R Shiny, Flask, Docker, Kubernetes, Kubeflow, REST apis, BeautifulSoup, D3.js, AWS (Amazon Sagemaker, EC2, S3, Textract, ElasticSearch, Comprehend, Lambda), Google Cloud Platform (GCP), Microsoft Azure, Heroku, NoSQL (MongoDB, Cassandra, Redshift), Relational SQL Databases (PostgreSQL, MySQL, Oracle, SQL Server), Tableau, PowerBI, Big Data Analytics (Apache Spark, Hive, MapReduce, Hadoop, HDFS), Version control Systems- Git, GitHub.**
+ - Proficient-  Python, R, SQL, Java, Pandas, Numpy, Scikit-learn, SciPy, NLTK, Spacy, Gensim, TensorFlow, Keras, PyTorch, OpenCV, HuggingFace, Matplotlib, Seaborn, Plotly, Ggplot, R Shiny, Flask, Docker, Kubernetes, Kubeflow, REST apis, BeautifulSoup, D3.js, AWS (Amazon Sagemaker, EC2, S3, Textract, ElasticSearch, Comprehend, Lambda), Google Cloud Platform (GCP), Microsoft Azure, Heroku, NoSQL (MongoDB, Cassandra, Redshift), Relational SQL Databases (PostgreSQL, MySQL, Oracle, SQL Server), Tableau, PowerBI, Big Data Analytics (Apache Spark, Hive, MapReduce, Hadoop, HDFS), Version control Systems- Git, GitHub.
  
  - AI/ML models- Supervised Learning- Classification and Regression **(Linear Regression, Logistic Regression, Ridge, Lasso and ElasticNet Regression), Decision Tree, SVM, k-nearest neighbors (k-NN), Naïve Bayes**, Ensemble methods- Bagging (**Random Forest**), Boosting (**AdaBoost/ XGBoost/ LightGBM**), Unsupervised Learning- **Hierarchical, K-means clustering, PCA, t-sne** and Deep Learning models- **Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTM, Word2Vec, Attention models, BERT, Bi-LSTMs, Autoencoders, and Time-series analysis**
   
