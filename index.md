@@ -6,8 +6,8 @@ Actively seeking Data Science and Machine Learning roles, with hands-on experien
 
 5+ years of experience as a "Data Scientist" in technologies such as- Python, R, SQL, Java.
 
-I graduated in "MS in Computer Science" from "California State University, East Bay" (May 2020), Hayward, CA, where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
-Prior to that, I hold Bachelor's degree in Computer Science from "Rajasthan Technical University" (June 2014), India .
+I graduated with **MS in Computer Science** from **California State University, East Bay** (May 2020), Hayward, CA, where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
+Prior to that, I hold **BS degree in Computer Science** from **Rajasthan Technical University** (June 2014), India .
 
 I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
 
@@ -79,9 +79,9 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Skills
 
- - Proficient-  Python, R, SQL, Java, Pandas, Numpy, Scikit-learn, SciPy, NLTK, Spacy, Gensim, TensorFlow, Keras, PyTorch, OpenCV, HuggingFace, Matplotlib, Seaborn, Plotly, Ggplot, R Shiny, Flask, Docker, Kubernetes, Kubeflow, REST apis, BeautifulSoup, D3.js, AWS (Amazon Sagemaker, EC2, S3, Textract, ElasticSearch, Comprehend, Lambda), Google Cloud Platform (GCP), Microsoft Azure, Heroku, NoSQL (MongoDB, Cassandra, Redshift), Relational SQL Databases (PostgreSQL, MySQL, Oracle, SQL Server), Tableau, PowerBI, Big Data Analytics (Apache Spark, Hive, MapReduce, Hadoop, HDFS), Version control Systems- Git, GitHub
+ - Proficient-  **Python, R, SQL, Java, Pandas, Numpy, Scikit-learn, SciPy, NLTK, Spacy, Gensim, TensorFlow, Keras, PyTorch, OpenCV, HuggingFace, Matplotlib, Seaborn, Plotly, Ggplot, R Shiny, Flask, Docker, Kubernetes, Kubeflow, REST apis, BeautifulSoup, D3.js, AWS (Amazon Sagemaker, EC2, S3, Textract, ElasticSearch, Comprehend, Lambda), Google Cloud Platform (GCP), Microsoft Azure, Heroku, NoSQL (MongoDB, Cassandra, Redshift), Relational SQL Databases (PostgreSQL, MySQL, Oracle, SQL Server), Tableau, PowerBI, Big Data Analytics (Apache Spark, Hive, MapReduce, Hadoop, HDFS), Version control Systems- Git, GitHub **
  
- - AI/ML models- Supervised Learning- Classification and Regression (Linear Regression, Logistic Regression, Ridge, Lasso and ElasticNet Regression), Decision Tree, SVM, k-nearest neighbors (k-NN), Naïve Bayes, Ensemble methods- Bagging (Random Forest), Boosting (AdaBoost/ XGBoost/ LightGBM), Unsupervised Learning- Hierarchical, K-means clustering, PCA, t-sne and Deep Learning models- Word2Vec, Attention models, BERT, Bi-LSTMs, Autoencoders, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTM, Time-series analysis
+ - AI/ML models- Supervised Learning- Classification and Regression **(Linear Regression, Logistic Regression, Ridge, Lasso and ElasticNet Regression), Decision Tree, SVM, k-nearest neighbors (k-NN), Naïve Bayes**, Ensemble methods- Bagging (**Random Forest**), Boosting (**AdaBoost/ XGBoost/ LightGBM**), Unsupervised Learning- **Hierarchical, K-means clustering, PCA, t-sne** and Deep Learning models- **Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTM, Word2Vec, Attention models, BERT, Bi-LSTMs, Autoencoders, and Time-series analysis**
   
  - Statistical Techniques- Regression Analysis, Anova Testing (I,II way), Chi-squared Test, Confidence Intervals, Bayesian Techniques, Monte Carlo Methods (MCMC), Stepwise Regression Model, Sample Size Calculation, Hypothesis testing, A/B and multivariate tests, Time-series Analysis.
    
