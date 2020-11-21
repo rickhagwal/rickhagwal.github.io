@@ -6,7 +6,7 @@ Actively seeking Data Science and Machine Learning roles, with hands-on experien
 
 5+ years of experience as a **Data Scientist** in technologies such as- Python, R, SQL, Java.
 
-I graduated with **MS in Computer Science** from **California State University, East Bay** (May 2020), Hayward, CA, where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning models in the real-world environment, via variant Natiral Language Processing and Machine Learning projects, to better utilize the potential that data holds in real. 
+I graduated with **MS in Computer Science** from **California State University, East Bay** (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning models in the real-world environment, via variant Natiral Language Processing and Machine Learning based school projects, to better utilize the potential that data holds in real. 
 
 I am currently on OPT EAD Visa and authorized to work in US without sponsorship till August 2023.
 
@@ -23,7 +23,7 @@ I am currently on OPT EAD Visa and authorized to work in US without sponsorship 
 
 ### Education
 
-- [Master's in Computer Science at California State University, East Bay](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
+- [Master's in Computer Science from California State University, East Bay, Hayward, CA](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
   - Relevant Coursework:
     * Advanced Artificial Intelligence
     * Machine Learning
@@ -38,7 +38,7 @@ I am currently on OPT EAD Visa and authorized to work in US without sponsorship 
     * Advanced Analysis of Algorithms
     * Software Engineering
     
-- [Bachelors in Computer Science](http://www.rtu.ac.in/RTU/)
+- [B.Tech in Computer Science from Rajasthan Technical University, India](http://www.rtu.ac.in/RTU/)
 
 ---
 
