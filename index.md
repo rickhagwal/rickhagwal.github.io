@@ -45,33 +45,35 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 
 ### Academic Projects- Machine Learning, Deep Learning and NLP
+  
+  - [Sentiment Analysis with Deep Learning using BERT: Classify tweets emotions as variant smileys, using PyTorch, HuggingFace and NLP BERT model, F-1 score as evaluation metrics](https://github.com/rickhagwal/Bert_Sentiment_Analysis/)
+  
+  - [Fake News Detection: Feature Engineering and Data Modeling](https://github.com/rickhagwal/Fake_News_Detection )
 
-  - [Image Classification: Detecting COVID-19 on Chest X-Ray images, via PyTorch and got 97.78% accuracy](https://github.com/rickhagwal/Covid19_Image_classification)
+  - [Indoor Navigation in real-time environment: LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
+    
+  - [Tweets Sentiment Analysis using Natural Language Processing: CLassify tweets as Racist/Sexist vs Non-Racist/Non-Sexist, via F-1 score as evaluation metrics ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
   
-  - [Sentiment Analysis with Deep Learning using BERT: Classify tweets emotions as different smileys, using PyTorch, HuggingFace and finetuned BERT model, F-1 score as evaluation metrics](https://github.com/rickhagwal/Bert_Sentiment_Analysis/)
-
-  - [Indoor Navigation in real-time environment using LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
-    
-  - [Tweets Sentiment Analysis using Natural Language Processing, to determine Racist/Sexist vs Non-Racist/Non-Sexist tweets, via F-1 score as evaluation metrics ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
+  - [NLP based Spam Email Classifier: metric evaluated as-(Precision: 91.3% , Recall:85.7%  and Accuracy:97%), via AdaBoost ML algorithm, and model deployment on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
   
-  - [Deep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API, via custom Image Recognition model and pre-trained neural networkImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
-    
-  - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques, by performing Hyperparameter Tuning and got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
+  - [Detecting COVID-19 on Chest X-Ray images: Image Classification via PyTorch and got 97.78% accuracy](https://github.com/rickhagwal/Covid19_Image_classification)
   
-   - [Housing Sales Price prediction of Washington D.C., by performing Data Preprocessing and advanced Regression techniques, via RMSE as evaluation metrics](https://github.com/rickhagwal/WashingtonDC_sales_price_predict)
+  - [Deep Neural Network for Classifying Birds vs Non-Birds images using TensorFlow and Keras API: via custom Image Recognition model and ImageNet](https://github.com/rickhagwal/Image-Recognition-using-Deep-Learning/tree/Image-Recognition)
     
-  - [Natural language Processing based Spam Email Classifier, to classify spam vs non-spam emails with predicted metrics(Precision: 91.3% , Recall:85.7%  and Accuracy:97%), via AdaBoost ML algorithm, and deployed model on Heroku ](https://github.com/rickhagwal/NLP-Spam-Email-Classifier)
+  - [Finding Donors for CharityML using, Ensembled Gradient Boosting Techniques: Hyperparameter Tuning, got 93.25% accuracy(ROC-AUC metrics)](https://github.com/rickhagwal/Finding-Donors-for-CharityML)
+  
+   - [Housing Sales Price prediction of Washington D.C.: Data Preprocessing and advanced Regression techniques, via RMSE as evaluation metrics](https://github.com/rickhagwal/WashingtonDC_sales_price_predict)
     
-  - [Integration of AI chatbots for smart home automation System (built upon Sensors) via Chatfuel API and deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
+  - [AI chatbots for smart home automation System :(built upon IoT Sensors) via RESTful APIs, deployed model on AWS EC2](https://github.com/rickhagwal/IOT-Academic-Project)
     
-  - [Created Artificial Intelligence based Games- 8 , 8 Puzzle, N-Queens problem etc, via BFS, DFS, A star Search](https://github.com/rickhagwal/Artificial-Intelligence)
+  - [Created Artificial Intelligence based Games: 8 , 8 Puzzle, N-Queens problem etc, via BFS, DFS, A star Search](https://github.com/rickhagwal/Artificial-Intelligence)
     
  
 ---
 
 ### Academic Projects- Data Visualization via Tableau
 
-- [Coronavirus Spread Across Globe, by performing Data Scraping, Data Analysis and Data Cleaning](https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimelineacrossweb)
+- [Coronavirus Spread Across Globe: Data Scraping, Data Analysis, Data Cleaning and Visualization via Tableau](https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimelineacrossweb)
 
 ---
 
