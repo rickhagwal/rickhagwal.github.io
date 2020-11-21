@@ -14,10 +14,10 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Professional experience
 
-- [Data Scientist](https://www.thewinegroup.com/)
-- [Data Scientist](https://www.csueastbay.edu/)
-- [Data Scientist](https://www.bata.in/)
-- [Data Analyst / Software Developer](https://www.airtel.in/)
+- [Data Scientist (Full time)](https://www.thewinegroup.com/)
+- [Data Scientist (Full time)](https://www.bata.in/)
+- [Data Scientist (Part time)](https://www.csueastbay.edu/)
+- [Data Analyst / Software Developer (Full time)](https://www.airtel.in/)
 
 ---
 
