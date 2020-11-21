@@ -93,12 +93,18 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 ### Certifications
 
 - [Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
-- [Introduction to R- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Introduction_to_R.pdf)
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning- March 2019](https://www.coursera.org/account/accomplishments/verify/9XAU6S7VD45N)
+- [Detecting COVID-19 with Chest X-Ray using PyTorch- August 2020](https://www.coursera.org/account/accomplishments/verify/KH2P4TV6T7X9)
+- [Predict Future Product Prices Using Facebook Prophet- July 2020](https://www.coursera.org/account/accomplishments/verify/VTR322KYKAFB)
+- [Introduction to Data Science in Python- March 2020](https://www.coursera.org/account/accomplishments/verify/KKRG5Z4R9U74)
+
+- [Intermediate R- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Introduction_to_R.pdf)
 - [Data Cleaning in Python- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Python_Data_Cleaning.pdf)
 - [Pandas Foundations- Jan 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Pandas_Foundations.pdf)
 - [Feature Engineering for NLP- April 2020](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/Feature_engineering_for_NLP_Python.pdf)
 - [Applied Machine Learning: Algorithms- May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Applied_Machine_Learning_Algorithms.pdf)
 - [Deep Learning Applications with TensorFlow- April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
+- [Building and Deploying Deep Learning Applications with Keras- August 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Building_and_Deploying_Deep%20Learning_Applications_with_TensorFlow.pdf)
 - [NLP with Python for Machine Learning- May 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_NLP_with_Python_for_Machine_Learning_Essential_Training.pdf)
 - [Deep Learning: Face Recognition- March 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Face_Recognition.pdf)
 - [Deep Learning: Image Recognition- April 2019](https://github.com/rickhagwal/rickhagwal.github.io/blob/master/pdf/CertificateOfCompletion_Deep_Learning_Image_Recognition.pdf)
