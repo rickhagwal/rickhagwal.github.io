@@ -2,11 +2,12 @@
 
 ### Introduction
 
-Data Science and Machine Learning enthusiast, with hands-on experience collecting, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Time-series Forecasting, Video/ Image Classification, Object detection, Face Recognition, Semantics Analysis, Recommendation System. 
+Actively seeking Data Science and Machine Learning roles, with hands-on experience collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Logistics and Supply Chain, IT Technical, Education and possess an extensive analytical skills, with past expertise building ML models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc.
 
-Former "Data Science Intern" at "The Wine Group", along with prior 4+ years of experience as a "Software Developer" in technologies such as- Java, Python, JavaScript, SQL.
+5+ years of experience as a "Data Scientist" in technologies such as- Python, R, SQL, Java.
 
-I just graduated from California State University, East Bay (May 2020), where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real. 
+I graduated in "MS in Computer Science" from "California State University, East Bay" (May 2020), Hayward, CA, where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
+Prior to that, I hold Bachelor's degree in Computer Science from "Rajasthan Technical University" (June 2014), India .
 
 I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
 
@@ -14,9 +15,10 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Professional experience
 
-- [Data Science Intern](https://www.thewinegroup.com/)
-- [Senior Executive Software Developer](https://www.bata.in/)
-- [Programmer](https://nrlm.gov.in/)
+- [Data Scientist](https://www.thewinegroup.com/)
+- [Data Scientist](https://www.csueastbay.edu/)
+- [Data Scientist](https://www.bata.in/)
+- [Data Analyst / Software Developer](https://www.airtel.in/)
 
 ---
 
@@ -75,11 +77,13 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Skills
 
- - Proficient -  Python, Java, Classification, Regression, Clustering, Supervised/Un-Supervised Learning, Deep Learning, Natural language Processing (NLP), Statistical Analysis,   TensorFlow, TensorFlow Lite, TensorBoard, Keras, Pandas, Numpy, Scikit-learn, NLTK, Spacy, Matplotlib, Seaborn, Plotly, Flask, REST api, BeautifulSoup, Heroku, AWS, GCP, Tableau, NoSQL (MongoDB, Cassandra), Relational SQL Databases (PostgreSQL, MySQL, Oracle, SQL Server)
-
- - Intermediate - R, PyTorch, Unix Scripting, Big Data, Hadoop, Spark, Hive, Microsoft Azure ML, Docker, Jenkins, D3.js, PowerBI
+ - Proficient-  Python, R, SQL, Java, Pandas, Numpy, Scikit-learn, SciPy, NLTK, Spacy, Gensim, TensorFlow, Keras, PyTorch, OpenCV, HuggingFace, Matplotlib, Seaborn, Plotly, Ggplot, R Shiny, Flask, Docker, Kubernetes, Kubeflow, REST apis, BeautifulSoup, D3.js, AWS (Amazon Sagemaker, EC2, S3, Textract, ElasticSearch, Comprehend, Lambda), Google Cloud Platform (GCP), Microsoft Azure, Heroku, NoSQL (MongoDB, Cassandra, Redshift), Relational SQL Databases (PostgreSQL, MySQL, Oracle, SQL Server), Tableau, PowerBI, Big Data Analytics (Apache Spark, Hive, MapReduce, Hadoop, HDFS), Version control Systems- Git, GitHub
  
- - Soft Skills- Analytical skills, Quick learner, Data driven, problem solving skills, innovative, creative, communication skills, adaptability skills
+ - AI/ML models- Supervised Learning- Classification and Regression (Linear Regression, Logistic Regression, Ridge, Lasso and ElasticNet Regression), Decision Tree, SVM, k-nearest neighbors (k-NN), Naïve Bayes, Ensemble methods- Bagging (Random Forest), Boosting (AdaBoost/ XGBoost/ LightGBM), Unsupervised Learning- Hierarchical, K-means clustering, PCA, t-sne and Deep Learning models- Word2Vec, Attention models, BERT, Bi-LSTMs, Autoencoders, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTM, Time-series analysis
+  
+ - Statistical Techniques- Regression Analysis, Anova Testing (I,II way), Chi-squared Test, Confidence Intervals, Bayesian Techniques, Monte Carlo Methods (MCMC), Stepwise Regression Model, Sample Size Calculation, Hypothesis testing, A/B and multivariate tests, Time-series Analysis.
+   
+ - Soft Skills- Analytical skills, Quick learner, self-driven, problem-solving skills, innovative, creative, communication skills, adaptability skills
 
 ---
 
@@ -102,9 +106,8 @@ I am currently on F1 Visa and authorized to work in OPT without sponsorship till
 
 ### Contact Information
 
-- [LinkedIn](https://www.linkedin.com/in/richa-khagwal-903474172/)
+- [LinkedIn](https://www.linkedin.com/in/richak5/)
 - [Github](https://github.com/rickhagwal)
 - [Youtube](https://www.youtube.com/watch?v=95mdJyE3C7g&list=UUHftDftQbZsQq3tMs_iX3hg)
-- [Twitter](https://twitter.com/Richa61042835)
 
 ---
