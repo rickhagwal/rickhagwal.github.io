@@ -6,8 +6,7 @@ Actively seeking Data Science and Machine Learning roles, with hands-on experien
 
 5+ years of experience as a "Data Scientist" in technologies such as- Python, R, SQL, Java.
 
-I graduated with **MS in Computer Science** from **California State University, East Bay** (May 2020), Hayward, CA, where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real.
-Prior to that, I hold **BS degree in Computer Science** from **Rajasthan Technical University** (June 2014), India .
+I graduated with **MS in Computer Science** from **California State University, East Bay** (May 2020), Hayward, CA, where, I was engaged in learning and applying Advanced Machine Learning and Deep Learning algorithms in the real-world environment, via variant academic projects each semester, to better utilize the potential that data holds in real. I also hold **BS degree in Computer Science** from **Rajasthan Technical University** (June 2014), India.
 
 I am currently on F1 Visa and authorized to work in OPT without sponsorship till August 2023.
 
