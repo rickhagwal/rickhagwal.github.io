@@ -8,11 +8,11 @@
 
 ### Professional experience
 
-- Data Scientist at **Kaleida Health**
-- Data Scientist at **The Wine Group**
-- Data Scientist at **Bata India Ltd.**
-- Data Scientist at **Institutional Planning and Anlaysis**
-- Software Developer at **Bharti Airtel Ltd.**
+- Data Scientist at Kaleida Health
+- Data Scientist at The Wine Group
+- Data Scientist at Bata India Ltd.
+- Data Scientist at Institutional Planning and Anlaysis
+- Software Developer at Velocis Systems Pvt Ltd.
 
 ---
 
