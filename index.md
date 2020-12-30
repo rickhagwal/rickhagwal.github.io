@@ -12,7 +12,7 @@
 - Data Scientist at **The Wine Group**
 - Data Scientist at **Bata India Ltd.**
 - Data Scientist at **Institutional Planning and Anlaysis**
-- Software Developer at **Velocis Systems Pvt. Ltd.**
+- Software Developer at **Bharti Airtel Ltd.**
 
 ---
 
@@ -33,18 +33,19 @@
     * Advanced Analysis of Algorithms
     * Software Engineering
     
-- [B.Tech (Bachelor's) in Computer Science at Rajasthan Technical University, India (June 2014](http://www.rtu.ac.in/RTU/)
+- [BS (Bachelor's) in Computer Science at Rajasthan Technical University, India (June 2014](http://www.rtu.ac.in/RTU/)
 
 ---
 
 
 ### Academic Projects- Machine Learning, Deep Learning and NLP
   
+   - [Indoor Navigation in real-time environment: LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
+   
   - [Sentiment Analysis with Deep Learning using BERT: Classify tweets emotions as variant smileys, using PyTorch, HuggingFace and NLP BERT model, F-1 score as evaluation metrics](https://github.com/rickhagwal/Bert_Sentiment_Analysis/)
   
   - [Fake News Detection: Feature Engineering and Data Modeling](https://github.com/rickhagwal/Fake_News_Detection )
 
-  - [Indoor Navigation in real-time environment: LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
     
   - [Tweets Sentiment Analysis using Natural Language Processing: CLassify tweets as Racist/Sexist vs Non-Racist/Non-Sexist, via F-1 score as evaluation metrics ](https://github.com/rickhagwal/Tweets-Semantic-Analysis)
   
