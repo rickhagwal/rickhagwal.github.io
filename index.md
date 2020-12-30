@@ -33,7 +33,7 @@
     * Advanced Analysis of Algorithms
     * Software Engineering
     
-- [BS (Bachelor's) in Computer Science at Rajasthan Technical University, India (June 2014](http://www.rtu.ac.in/RTU/)
+- [BS (Bachelor's) in Computer Science and Engineering at Rajasthan Technical University, India (June 2014](http://www.rtu.ac.in/RTU/)
 
 ---
 
