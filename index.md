@@ -2,7 +2,7 @@
 
 ### Introduction
 
-**Data Scientist with 6+ years of professional experience**, with hands-on experience collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Healthcare, Supply Chain, IT Technical, and Education domains and posseses an extensive analytical skills, with past expertise building Machine Learning models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc., utilizing programming languages such as- **Python, R, SQL, Java**.
+**Data Scientist with 6+ years of professional experience**, with hands-on experience collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, Healthcare, Supply Chain, IT, Telecommunications and Education domains and posseses an extensive analytical skills, with past expertise building Machine Learning models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc., utilizing programming languages such as- **Python, R, SQL, Java**.
 
 ---
 
