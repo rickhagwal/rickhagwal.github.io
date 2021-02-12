@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Data Scientist with 6+ years of total IT experience. 3+ years of professional Data Science experience building Machine Learning models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc., by collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, along with past 2 years of experience as a Software developer, with a demonstrated history of working across multiple industries- Retail, Healthcare, Supply Chain, and IT domains.
+Data Scientist with 6+ years of total IT experience. 3+ years of professional Data Science experience building Machine Learning models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc., by collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, along with past 2.5 years of experience as a Software developer, with a demonstrated history of working across multiple industries- Retail, Healthcare, Supply Chain, and IT domains.
 
 ---
 
