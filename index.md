@@ -17,7 +17,7 @@ Data Scientist with 6+ years of total IT experience. 3+ years of professional Da
 
 ### Education
 
-- [MS (Master's) in Computer Science at California State University, East Bay, Hayward, CA (May 2020)](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
+- [MS in Computer Science at California State University, East Bay, Hayward, CA (May 2020)](https://catalog.csueastbay.edu/preview_program.php?catoid=19&poid=7757)
   - Relevant Coursework:
     * Advanced Artificial Intelligence
     * Machine Learning
@@ -32,7 +32,7 @@ Data Scientist with 6+ years of total IT experience. 3+ years of professional Da
     * Advanced Analysis of Algorithms
     * Software Engineering
     
-- [BS (Bachelor's) in Computer Science and Engineering at Rajasthan Technical University, India (June 2014)](http://www.rtu.ac.in/RTU/)
+- [BS in Computer Science and Engineering at Rajasthan Technical University, India (June 2014)](http://www.rtu.ac.in/RTU/)
 
 ---
 
