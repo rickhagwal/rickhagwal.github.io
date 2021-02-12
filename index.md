@@ -32,12 +32,12 @@ Data Scientist with 6+ years of total IT experience. 3+ years of professional Da
     * Advanced Analysis of Algorithms
     * Software Engineering
     
-- [BS (Bachelor's) in Computer Science and Engineering at Rajasthan Technical University, India (June 2014](http://www.rtu.ac.in/RTU/)
+- [BS (Bachelor's) in Computer Science and Engineering at Rajasthan Technical University, India (June 2014)](http://www.rtu.ac.in/RTU/)
 
 ---
 
 
-### Academic Projects- Machine Learning, Deep Learning and NLP
+### Projects- Machine Learning and Natural Language Processing
   
    - [Indoor Navigation in real-time environment: LSTM Deep Learning Neural Network, and got 99.98% accuarcy(R2- score)](https://github.com/rickhagwal/Indoor-Navigation)
    
@@ -65,7 +65,7 @@ Data Scientist with 6+ years of total IT experience. 3+ years of professional Da
  
 ---
 
-### Academic Projects- Data Visualization via Tableau
+### Projects- Data Visualization via Tableau
 
 - [Coronavirus Spread Across Globe: Data Scraping, Data Analysis, Data Cleaning and Visualization via Tableau](https://public.tableau.com/profile/richa7025#!/vizhome/Coronavirus_static/CoronavirusTimelineacrossweb)
 
