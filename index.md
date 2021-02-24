@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Data Scientist with 6+ years of total IT experience. 3+ years of professional Data Science experience building Machine Learning models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc., by collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, along with past 2.5 years of experience as a Software developer, with a demonstrated history of working across multiple industries- Retail, Healthcare, Supply Chain, and IT domains.
+Data Scientist with 6+ years of professional Data Science experience building Machine Learning models in different domains such as- Natural Language Processing, Computer Vision, Time-series Forecasting, Recommender System etc., by collecting, cleaning, analyzing and interpreting large datasets, leveraging machine learning models to uncover insights and drive business growth, with a demonstrated history of working across multiple industries- Retail, e-commerce, Healthcare, Supply Chain, and IT domains.
 
 ---
 
@@ -10,6 +10,7 @@ Data Scientist with 6+ years of total IT experience. 3+ years of professional Da
 
 - Data Scientist at Kaleida Health
 - Data Scientist at The Wine Group
+- Data Scientist at Institutional Planning and Analysis
 - Data Scientist at Bata India Ltd.
 - Software Developer at Velocis Systems Pvt Ltd.
 
